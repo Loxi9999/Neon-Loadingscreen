@@ -1,0 +1,246 @@
+{
+    "Rules": [
+        {
+            "title": "/me, /do, /opis, /try",
+            "rule": "Komendy narracyjne"
+        },
+        {
+            "title": "/report",
+            "rule": "Wysłanie zgłoszenia/prośby o pomoc do administracji"
+        },
+        {
+            "title": "/wybierzeq",
+            "rule": "Zmiana wyboru ekwipunku na domyślny/kafelkowy"
+        },
+        {
+            "title": "/twt [wiadomość]",
+            "rule": "Wysłanie wiadomości na czacie twitter."
+        },
+        {
+            "title": "/dw [wiadomość]",
+            "rule": "Wysłanie wiadomości na DarkWeb."
+        },
+        {
+            "title": "/dowod, /wizytowka",
+            "rule": "Wyświetla menu opcji wizytówki/dowodu"
+        },
+        {
+            "title": "/seat [miejsce]",
+            "rule": "Zmiana miejsca pozycji siedzącej w pojeździe"
+        },
+        {
+            "title": "/podnies, /carry",
+            "rule": "Podniesienie gracza na ręce"
+        },
+        {
+            "title": "/propfix",
+            "rule": "Usuwa przedmioty przyklejone do ręki"
+        },
+        {
+            "title": "/anim",
+            "rule": "Automatyczne siadanie/opieranie się o ścianę (musicie podejść do danego propa/obiektu i wpisać komendę)"
+        },
+        {
+            "title": "/streamermode",
+            "rule": "Wycisza muzykę streamowaną przez Car Radio"
+        },
+        {
+            "title": "/fpsy",
+            "rule": "Ustawienia optymalizacyjne klienta"
+        },
+        {
+            "title": "/temp [predkosc] /tempoff",
+            "rule": "Ustawienia tempomatu lub wyłączenie go"
+        },
+        {
+            "title": "/odbierzsteam",
+            "rule": "Odbierz nagrodę za nick w nazwie Steam"
+        },
+        {
+            "title": "/wymienpojazd",
+            "rule": "Wymiana pojazdu za pojazd z innym obywatelem"
+        },
+        {
+            "title": "/sprzedajpojazd, /kontrakt",
+            "rule": "Bezpieczna sprzedaż pojazdu innemu obywatelowi"
+        },
+        {
+            "title": "/ustawienia",
+            "rule": "Ustawienia wizualne HUD'u, włączanie ekranu w tryb kinowy"
+        },
+        {
+            "title": "/neoncoins",
+            "rule": "Menu sklepu serwera dla wspierających"
+        },
+        {
+            "title": "/chaton, /chatoff]",
+            "rule": "Włączenie/Wyłączenie chatu globalnego"
+        },
+        {
+            "title": "/org",
+            "rule": "Menu dla członków oraz zarządców organizacji"
+        },
+        {
+            "title": "/carradio",
+            "rule": "Menu radia dostępne w pojeździe"
+        },
+        {
+            "title": "/radiolist",
+            "rule": "Lista osób na radiu"
+        },
+        {
+            "title": "/radiosound",
+            "rule": "Włącz/Wyłącz dzwięki radia"
+        }
+    ],
+
+    "Gallery": [
+        "music.png",
+        "deletebg.png"
+    ],
+
+    "Team": [
+        {
+            "img": "CynamonAvatar.gif",
+            "rank": "Cynamon",
+            "name": "Project Leader"
+        },
+        {
+            "img": "doctorheal.jpeg",
+            "rank": "DoctoRHeaL",
+            "name": "Project Leader"
+        },
+        {
+            "img": "szczepan.png",
+            "rank": "Szczepan",
+            "name": "Team Leader"
+        },
+        {
+            "img": "kiziaki.png",
+            "rank": "KiziaKi",
+            "name": "Neon Team"
+        },
+        {
+            "img": "ququ.png",
+            "rank": "ququmuniu",
+            "name": "Neon Team"
+        },        
+        {
+            "img": "kisable.png",
+            "rank": "KissableKubacki",
+            "name": "HeadAdmin"
+        },
+        {
+            "img": "mopsik.png",
+            "rank": "Mopsik",
+            "name": "HeadAdmin"
+        }
+    ],
+
+    "Updates": [
+        {
+            "img": "update1.png",
+            "title": "UPDATE 0.2",
+            "update": "Lorem ipsum dolor sit amet consectetur. Urna nulla pharetra mauris eu nulla in interdum sagittis. Nulla tincidunt nam mattis purus consectetur. Cursus lorem tempus porta in pretium."
+        }
+    ],
+
+    "Music": [
+		{
+			"name": "Babylone",
+			"author": "Nepal",
+			"path": "musics/babylon.mp3"
+		},
+		{
+			"name": "Adana - Nepal",
+			"path": "musics/babylon.mp3"
+		}
+	],
+
+    "Keys": {
+        "F1": {
+			"title": "Telefon",
+			"description": "Wyciągnij telefon"
+		},
+        "F2": {
+			"title": "Ekwipunek",
+			"description": "Otwórz ekwipunek"
+		},
+        "F3": {
+			"title": "Radial Menu",
+			"description": "Otwórz menu szybkiego wyboru"
+		},
+		"F5": {
+			"title": "Zakres Rozmowy",
+			"description": "Ustaw zakres rozmowy głosowej"
+		},
+		"F9": {
+			"title": "Zdalne Klucze",
+			"description": "Menu kluczy do aut"
+		},
+        "Home": {
+			"title": "Menu Postaci",
+			"description": "Otwórz menu postaci"
+		},
+        "Delete": {
+			"title": "Tablet",
+			"description": "Otwórz tablet frakcyjny"
+		},
+        "~": {
+			"title": "Ręce",
+			"description": "Podnieś/Opuść ręce"
+		},
+        "Z": {
+			"title": "Lista Obywateli",
+			"description": "Sprawdź listę obywateli"
+		},
+        "LALT": {
+			"title": "Radio",
+			"description": "Rozmowa przez radio"
+		},
+        "RCTRL": {
+			"title": "Czołganie",
+			"description": "Czołganie się postaci"
+		},
+        "-": {
+			"title": "Częstotliwość",
+			"description": "Zmiana częstotliwości radia"
+		},
+        ",": {
+			"title": "Gwizdanie",
+			"description": "Kliknij aby postać zagwizdała"
+		},
+        "B": {
+			"title": "Wskazywanie/ Zapinanie Pasów",
+			"description": "Kliknij aby postać wskazywała ręką lub zapieła pasy"
+		},
+        "Y": {
+			"title": "Silnik",
+			"description": "Włączanie/wyłączanie silnika w pojeździe"
+		},
+        "U": {
+			"title": "Klucze",
+			"description": "Zamknięcie/Otworzenie pojazdu"
+		},
+        "L": {
+			"title": "Bagażnik/Menu Pojazdu",
+			"description": "Kliknij aby otworzyć bagażnik lub menu pojazdu"
+		},
+        "K": {
+			"title": "Ubrania",
+			"description": "Przytrzymaj aby ściągnąć/założyc ubranie."
+		},
+        "M": {
+			"title": "Ragdoll",
+			"description": "Kładzenie/wstawanie postaci."
+		},
+        "[": {
+			"title": "Dodatki Broni",
+			"description": "Przytrzymaj aby wyświetlić menu dodatków do broni."
+		}
+    },
+
+    "Discord": "https://discord.com/invite/neonrp",
+    "Instagram": "https://neonrp.pl/",
+    "Youtube": "https://neonrp.pl/sklep"
+}
